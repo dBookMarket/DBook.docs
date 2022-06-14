@@ -28,11 +28,11 @@ We want to create a marketplace for NFT books in the Web3 era that protects auth
 
 ## Target User
 
-Authors who want to earn/promote their work through Web3
+- Authors who want to earn/promote their work through Web3
 
-Readers who need motivation to keep reading on their own
+- Readers who need motivation to keep reading on their own
 
-Collectors who like to collect NFT/ limited digital books
+- Collectors who like to collect NFT/ limited digital books
 
 
 
@@ -68,13 +68,13 @@ Collectors who like to collect NFT/ limited digital books
 
 ## Contributors
 
-[Senshi M. Onions](https://twitter.com/onion797jp)
+[R-Future](https://github.com/R-Future)
 
-[Bakhtiiar Muzakparov](https://github.com/muzakparov)
+[xuxinlai2002](https://github.com/xuxinlai2002)
 
-[Bach Adylbekov](https://github.com/bahadylbekov)
+[linxi1020](https://github.com/linxi1020)
 
-[ChronosX88](https://github.com/ChronosX88)
+[horry](https://github.com/onlyYU)
 
 
 
