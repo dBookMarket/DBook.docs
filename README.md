@@ -2,15 +2,10 @@
 
 
 
-![logo](img/logo.png)
+<h1 align="center">
+  <img width="600" src="img/logo.png" alt="DBook logo" />
 
-
-
-
-
-
-
-------
+</h1>
 
 <h3 align="center">New ways to buy and read books in the Web3 era</h3>
 
