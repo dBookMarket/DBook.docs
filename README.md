@@ -2,7 +2,7 @@
 
 
 
-![logo](.\img\logo.png)
+![logo](img/logo.png)
 
 
 
@@ -46,9 +46,9 @@ Collectors who like to collect NFT/ limited digital books
 
 ## Presentations
 
-- [pitch deck](./file/pitch deck.pptx)
+-  [pitch deck](file/pitch_deck.pptx) 
 
-- [pitch deck（中文）](./file/pitch deck（中文）.pptx)
+-  [pitch deck（中文）](file/pitch_deck_chinese.pptx) 
 
 - [Demo](https://dbookmarket.com/#/)
 
@@ -62,7 +62,7 @@ Collectors who like to collect NFT/ limited digital books
 
 - [Mobile Application](https://github.com/dBookMarket/DBook.Flutter)
 - [Smart Contracts](https://github.com/dBookMarket/DBook.Solidity)
-- [server](https://github.com/dBookMarket/DBook.Django)
+- [Server](https://github.com/dBookMarket/DBook.Django)
 
 
 
