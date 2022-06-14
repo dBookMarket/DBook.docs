@@ -41,9 +41,9 @@ We want to create a marketplace for NFT books in the Web3 era that protects auth
 
 ## Presentations
 
--  [pitch deck](file/pitch_deck.pptx) 
+-  [pitch deck](file/pitch_deck.pdf) 
 
--  [pitch deck（中文）](file/pitch_deck_chinese.pptx) 
+-  [pitch deck（中文）](file/pitch_deck_chinese.pdf) 
 
 - [Demo](https://dbookmarket.com/#/)
 
